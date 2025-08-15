@@ -2,7 +2,7 @@
 ### async-final-project-red-Vishal
 
 ## Dataset
-[X-Ray images]([https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database])
+[X-Ray images](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 
 ## Why did I chose this dataset?
 
